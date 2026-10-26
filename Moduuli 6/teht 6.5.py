@@ -1,4 +1,4 @@
-def karsi_parittomat(luvut):
+++++++++++def karsi_parittomat(luvut):
     uusi_lista = []
 
     for luku in luvut:
